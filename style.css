@@ -1,0 +1,32 @@
+body{
+    background-color:rgb(241, 169, 223);
+    font-family: 'Special Elite', cursive; 
+    }
+    .div_header{
+    background-color:rgb(163, 216, 236) ;
+    color:rgb(212, 15, 238);
+    }
+    .div_header p{
+    font-family: ;
+    letter-spacing:3px ;
+    font-weight: bold;
+    font-size: 12px;
+    color:rgb(215, 4, 243);
+    }
+    .main_header button{
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 30px;
+    width:130px;
+    letter-spacing:3px;
+    font-weight: bold;
+    }
+    .div_footer{
+    position:fixed;
+    color:rgb(171, 217, 248);
+    bottom:0;
+    width:100%;
+    font-size: 14px;
+    background-color: rgb(143, 171, 233);
+    line-height: 3;
+    text-shadow:5px 5px 5px white ;
+    
